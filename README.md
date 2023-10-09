@@ -3,4 +3,5 @@
 ## Outline
 1. Introduction
 2. Gameplay
+3. Difficulty
 
