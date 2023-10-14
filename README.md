@@ -17,6 +17,9 @@
 ```sh
 遊戲規則: 有42顆Supply，7顆BigSupply, 4隻怪獸。 4隻怪獸會持續找尋玩家，玩家吃到BigSupply則怪獸變小隻、玩家速度變快，
 一段時間後又恢復原樣，要吃完42顆Supply即獲勝。
-
+EASY: 玩家速度最快，4隻怪物大小最小
+MEDIUM: 玩家速度中等，4隻怪物大小中等
+HARD: 玩家速度最慢，4隻怪物大小最大
+Life有3條，假如剩0條，會跳出Try Again 或 Back to Menu
 ```
 
