@@ -12,7 +12,7 @@
 &nbsp;&nbsp;3D Pac-Man is a maze chasing game. Paying tribute to the classic game Pac-Man released in 1980, 3D Pac-Man uses three-dimensional scenes to provide a more detailed and three-dimensional gaming experience, taking players back to the excitement of the Pac-Man console in the 1980s.
 
 ## Gameplay
-&nbsp;&nbsp;The elf (Pac-Man) is located in a maze. There are 42 beans in the maze. As long as you can eat all the beans, you will win.起始Life為3，如扣至0則失敗。 在迷宮中另有4隻怪獸，會持續地尋找小精靈。假如小精靈碰到怪獸，碰到的怪獸回其怪獸起點，小精靈則回到隨機任一原點且Life 扣1。豆子共分2種：大豆子和小豆子，玩家吃到大豆子則怪獸變小隻、玩家速度變快，一段時間後又恢復原樣。
+&nbsp;&nbsp;The elf (Pac-Man) is located in a maze. There are 42 beans in the maze. As long as you can eat all the beans, you will win.The starting life is 3. If it reaches 0, it will fail. There are 4 other monsters in the maze that will continue to look for the elves. 在迷宮中另有4隻怪獸，會持續地尋找小精靈。假如小精靈碰到怪獸，碰到的怪獸回其怪獸起點，小精靈則回到隨機任一原點且Life 扣1。豆子共分2種：大豆子和小豆子，玩家吃到大豆子則怪獸變小隻、玩家速度變快，一段時間後又恢復原樣。
 
 ```sh
 遊戲規則: 有42顆Supply，7顆BigSupply, 4隻怪獸。 4隻怪獸會持續找尋玩家，玩家吃到BigSupply則怪獸變小隻、玩家速度變快，一段時間後又恢復原樣，要吃完42顆Supply即獲勝。
