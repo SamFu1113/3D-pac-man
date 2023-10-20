@@ -1,7 +1,7 @@
 # 3D-pac-man
 
 ## Outline
-1. Introduction
+[1.] Introduction: https://github.com/SamFu1113/3D-pac-man/tree/dev#introduction
 2. Gameplay
 3. Difficulty
 4. Map
