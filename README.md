@@ -1,7 +1,7 @@
 # 3D-pac-man
 
 ## Outline
-1. Introduction
+1. [Introduction](#Introduction)
 2. Gameplay
 3. Difficulty
 4. Map
