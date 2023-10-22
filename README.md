@@ -2,7 +2,7 @@
 
 ## Outline
 1. [Introduction](#Introduction)
-2. Gameplay
+2. [Gameplay](#Gameplay)
 3. Difficulty
 4. Map
 5. Monster
