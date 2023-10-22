@@ -4,7 +4,7 @@
 1. [Introduction](#Introduction)
 2. [Gameplay](#Gameplay)
 3. [Difficulty](#Difficulty)
-4. Map
+4. [Map](#Map)
 5. Monster
 6. Demo
 
