@@ -5,7 +5,7 @@
 2. [Gameplay](#Gameplay)
 3. [Difficulty](#Difficulty)
 4. [Map](#Map)
-5. Monster
+5. [Monster](#Monster)
 6. Demo
 
 ## Introduction
