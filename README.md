@@ -13,7 +13,7 @@
 
 ## Gameplay
 &nbsp;&nbsp;The elf (Pac-Man) is located in a maze. There are 42 beans in the maze. As long as you can eat all the beans, you will win. The starting life is 3. If it reaches 0, it will fail. Besides, there are 4 other monsters in the maze that will continue to look for the elves.<br />
-&nbsp;&nbsp;There are 4 other monsters in the maze that will continue to look for the elves. If the elf encounters a monster, the encountered monster will return to its starting point. On the other hand, the elf returns to a random starting point and its Life is deducted by 1.豆子共分2種：大豆子和小豆子，玩家吃到大豆子則怪獸變小隻、玩家速度變快，一段時間後又恢復原樣。
+&nbsp;&nbsp;There are 4 other monsters in the maze that will continue to look for the elves. If the elf encounters a monster, the encountered monster will return to its starting point. On the other hand, the elf returns to a random starting point and its Life is deducted by 1. There are two types of beans: big beans and small beans. If the player eats big beans, the monster will become smaller and the player's speed will become faster.一段時間後又恢復原樣。
 
 ```sh
 遊戲規則: 有42顆Supply，7顆BigSupply, 4隻怪獸。 4隻怪獸會持續找尋玩家，玩家吃到BigSupply則怪獸變小隻、玩家速度變快，一段時間後又恢復原樣，要吃完42顆Supply即獲勝。
