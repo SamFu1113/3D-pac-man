@@ -16,7 +16,7 @@
 &nbsp;&nbsp;There are 4 other monsters in the maze that will continue to look for the elves. If the elf encounters a monster, the encountered monster will return to its starting point. On the other hand, the elf returns to a random starting point and its Life is deducted by 1. There are two types of beans: big beans and small beans. If the player eats big beans, the monster will become smaller and the player's speed will become faster. After a while it returned to its original state.
 
 ```sh
-遊戲規則: 有42顆Supply，7顆BigSupply, 4隻怪獸。 4隻怪獸會持續找尋玩家，玩家吃到BigSupply則怪獸變小隻、玩家速度變快，一段時間後又恢復原樣，要吃完42顆Supply即獲勝。
+Game rules: There are 42 Supply, 7 BigSupply, and 4 monsters. The 4 monsters will continue to look for the player. When the player eats BigSupply, the monsters will become smaller and the player's speed will become faster. After a period of time, they will return to their original state. Once the player eats 42 items of supply, the monsters will become smaller.
 EASY: 玩家速度最快，4隻怪物大小最小
 MEDIUM: 玩家速度中等，4隻怪物大小中等
 HARD: 玩家速度最慢，4隻怪物大小最大
