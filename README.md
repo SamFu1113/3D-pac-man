@@ -23,7 +23,7 @@ HARD: The player is the slowest and the 4 monsters are the largest.
 #There are 3 #Life chances. If there are 0 items left, "Try Again" or "Back to Menu" will pop up.
 ```
 ```sh
-#If the player encounters a monster on the way, the monster encountered returns to its starting point, and the player returns to the origin (there are two origins set, and the player returns to either origin randomly)且玩家Life 扣1
+#If the player encounters a monster on the way, the monster encountered returns to its starting point, and the player returns to the origin (there are two origins set, and the player returns to either origin randomly)And the player's Life is deducted by 1.
 一進入遊戲會數3 2 1 GO（含GO共4秒）
 在這4秒內，玩家無法移動且4隻怪獸也不會動
 4秒後兩者皆可移動
