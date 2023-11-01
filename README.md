@@ -30,7 +30,7 @@ During these 4 seconds, the player cannot move and the 4 monsters will not move.
 
 ## Difficulty
 * There are three difficulties in the game.
-    * EASY：玩家速度最快，怪物類型為小怪獸
+    * EASY: The player is the fastest and the monster type is a small monster.
     * MEDIUM：玩家速度中等，怪物類型為中等怪獸
     * HARD：玩家速度最慢，怪物類型為大怪獸
 
