@@ -32,7 +32,7 @@ During these 4 seconds, the player cannot move and the 4 monsters will not move.
 * There are three difficulties in the game.
     * EASY: The player is the fastest and the monster type is a small monster.
     * MEDIUM: The player speed is medium, monster type is medium monster.
-    * HARD: The player is the slowest and the monster type is a big monster
+    * HARD: The player is the slowest and the monster type is a big monster.
 
 ## Map
 
