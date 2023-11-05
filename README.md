@@ -16,7 +16,7 @@
 &nbsp;&nbsp;There are 4 other monsters in the maze that will continue to look for the elves. If the elf encounters a monster, the encountered monster will return to its starting point. On the other hand, the elf returns to a random starting point and its Life is **deducted by 1**. There are two types of beans: **big beans** and **small beans**. If the player eats big beans, the monster will become smaller and the player's speed will become faster. After a while it returned to its original state.
 
 ```sh
-Game rules: There are **42 Supply**, 7 BigSupply, and 4 monsters. The 4 monsters will continue to look for the player. When the player eats BigSupply, the monsters will become smaller and the player's speed will become faster. After a period of time, they will return to their original state. Once the player eats 42 items of supply, the monsters will become smaller.
+Game rules: There are 42 Supplies, 7 BigSupply, and 4 monsters. The 4 monsters will continue to look for the player. When the player eats BigSupply, the monsters will become smaller and the player's speed will become faster. After a period of time, they will return to their original state. Once the player eats 42 items of supply, the monsters will become smaller.
 EASY: The player is the fastest and the 4 monsters are in the smallest size.
 MEDIUM: Player speed is medium, 4 monsters are in medium size.
 HARD: The player is the slowest and the 4 monsters are the largest.
