@@ -20,7 +20,7 @@ Game rules: There are 42 Supplies, 7 BigSupplies, and 4 monsters. The 4 monsters
 EASY: The player is the fastest and the 4 monsters are in the smallest size.
 MEDIUM: Player speed is medium, 4 monsters are in medium size.
 HARD: The player is the slowest and the 4 monsters are the largest.
-#There are 3 #Life chances. If there are 0 items left, "Try Again" or "Back to Menu" will pop up.
+#There are 3 #Life chances. If there are 0 item left, "Try Again" or "Back to Menu" will pop up.
 ```
 ```sh
 #If the player encounters a monster on the way, the monster encountered returns to its starting point, and the player returns to the origin (there are two origins set, and the player returns to either origin randomly). Besides, the player's life is deducted by 1.
