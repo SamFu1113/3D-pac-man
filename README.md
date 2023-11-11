@@ -23,7 +23,7 @@ HARD: The player is the slowest and the 4 monsters are in the largest size.
 #There are 3 #Life chances. If there are 0 item left, "Try Again" or "Back to Menu" will pop up.
 ```
 ```sh
-#If the player encounters a monster on the way, the monster encountered returns to its starting point, and the player returns to the origin spot(there are two origins set, and the player returns to either origin randomly). Besides, the player's life is deducted by 1.
+#If the player encounters a monster on the way, the monster encountered returns to its starting point, and the player returns to the origin spot(there are two origins, and the player returns to either origin randomly). Besides, the player's life is deducted by 1.
 Once you enter the game, the number of GOs will be 3 2 1 (a total of 4 seconds including GO).
 During these 4 seconds, the player cannot move and the 4 monsters will not move either. Furthermore, these all can move after 4 seconds.
 ```
