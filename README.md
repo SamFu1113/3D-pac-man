@@ -35,7 +35,7 @@ During these 4 seconds, the player cannot move and the 4 monsters will not move 
     * HARD: The player speed is the slowest and the monster type is a big monster.
 
 ## Map
-![image info](Assets\Material\map.PNG)
+![image info](Assets/Material/map.PNG)
 
 ## Monster
 
