@@ -31,7 +31,7 @@ During these 4 seconds, the player cannot move and the 4 monsters will not move 
 ## Difficulty
 * There are three difficulties in the game.
     * EASY: The player speed is the **fastest** and the monster size is the **smallest**(compared to other two scenarios).
-    * MEDIUM: The player speed is **medium** and the monster type is **medium** monster(compared to other two scenarios).
+    * MEDIUM: The player speed is **medium** and the monster size is in **medium**(compared to other two scenarios).
     * HARD: The player speed is the **slowest** and the monster type is a **big** monster(compared to other two scenarios).
 
 ## Map
