@@ -19,7 +19,7 @@
 EASY: The player is the fastest and the 4 monsters are in the smallest size.\
 MEDIUM: Player speed is medium, the 4 monsters are in medium size.\
 HARD: The player is the slowest and the 4 monsters are in the largest size.\
-&nbsp;&nbsp;There are **3 #Life chances**. If there are 0 item left, **"Try Again"** or **"Back to Menu"** will pop up.
+&nbsp;&nbsp;There are **3 Life chances**. If there are 0 item left, **"Try Again"** or **"Back to Menu"** will pop up.
 
 > &nbsp;&nbsp;If the player encounters a monster on the way, the monster encountered returns to its starting point, and the player returns to the origin spot(there are **2 origins**, and the player returns to either origin randomly). Besides, the player's life is deducted by 1.
 Once you enter the game, it will show **"3 2 1 & GO"**(a total of 4 seconds including GO text appears).
