@@ -17,7 +17,7 @@
 
 > &nbsp;&nbsp;Game rules: There are **42 Supplies**, **7 BigSupplies**, and **4 monsters**. The 4 monsters will continue to look for the player. When the player eats BigSupply, the monsters will become smaller and the player's speed will become faster. After a period of time, they will return to their original state. Once the player eats any of **42 Supplies**, the monsters will become smaller.\
 EASY: The player is the fastest and the 4 monsters are in the smallest size.(compared to other two scenarios)\
-MEDIUM: Player speed is medium, the 4 monsters are in medium size.\
+MEDIUM: Player speed is medium, the 4 monsters are in medium size.(compared to other two scenarios)\
 HARD: The player is the slowest and the 4 monsters are in the largest size.\
 &nbsp;&nbsp;There are **3 Life chances**. If there are 0 item left, **"Try Again"** or **"Back to Menu"** will pop up.
 
