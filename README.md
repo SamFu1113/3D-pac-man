@@ -8,7 +8,7 @@
 5. [Monster](#Monster)
 6. [Demo](#Demo)
 6. [Video](#Video)
-7. 
+
 ## Introduction
 &nbsp;&nbsp;3D Pac-Man is a maze chasing game. Paying tribute to the classic game Pac-Man released in 1980, 3D Pac-Man uses three-dimensional scenes to provide a more detailed and three-dimensional gaming experience, taking players back to the excitement of the Pac-Man console in the 1980s.
 
