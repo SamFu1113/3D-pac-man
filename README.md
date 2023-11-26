@@ -43,5 +43,5 @@ During these 4 seconds, the player cannot move and the 4 monsters will not move 
 > **Let’s go gaming!**
 
 ## Watch the video
-[![Video link for the game introduction](https://img.youtube.com/vi/2jTww4iFBgg/hqdefault.jpg)](https://www.youtube.com/embed/2jTww4iFBgg)
+[![Video link for the game introduction](https://img.youtube.com/vi/2jTww4iFBgg/hqdefault.jpg)](https://www.youtube.com/embed/2jTww4iFBgg)\
 [![Video link for demo](https://img.youtube.com/vi/QcW_FHscE8s/hqdefault.jpg)](https://www.youtube.com/embed/QcW_FHscE8s)
